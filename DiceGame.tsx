@@ -1,0 +1,1 @@
+// components/DiceGame.tsx placeholder
